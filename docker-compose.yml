@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+
+  phishing_tool:
+    container_name: "phishing_tool"
+    image: gophish/gophish
+    ports:
+      - "3333:3333"
+      - "443:443"
