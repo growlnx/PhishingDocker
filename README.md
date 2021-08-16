@@ -1,6 +1,6 @@
 # Phishing Docker
 
-A simple docker to be used in phishing simulations (red teamming).
+A simple docker-compose to be used in phishing simulations (red teamming).
 
 ## Getting Started
 
