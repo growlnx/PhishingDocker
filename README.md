@@ -12,7 +12,9 @@ git clone https://github.com/growlnx/PhishingDocker
 
 ### Update your SSL cert
 
-You need update your SSL cert inside **docker-compose.yml** file
+You need update your SSL cert path inside **docker-compose.yml** file
+
+> If you don't have a SSL Certificate yet, check this nice [tutorial](https://certbot.eff.org/docs/using.html#standalone)
 
 ```{sh}
 
